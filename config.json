@@ -1,1 +1,5 @@
-
+{
+    "TOKEN": "enter the token of your bot here",
+    "PREFIX": "Prefix for your bot",
+    "OWNER_ID":"the Id for the owner of the bot"
+}
